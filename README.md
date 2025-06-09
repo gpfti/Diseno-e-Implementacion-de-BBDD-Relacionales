@@ -1,6 +1,6 @@
 # Diseño-e-Implementación-de-BBDD-Relacionales
 
-## Decks de estudio de AnkiApp
+## Decks de estudio con AnkiApp
 [Decks](./AnkiApp-Decks)
 
 ## Licencia
