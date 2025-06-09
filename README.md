@@ -1,4 +1,4 @@
-# Normalizacion-de-BBDD-Relacionales
+# Diseño-e-Implementación-de-BBDD-Relacionales
 
 
 ## Licencia
