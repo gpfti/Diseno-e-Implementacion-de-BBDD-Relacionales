@@ -1,4 +1,4 @@
-# Diseño-e-Implementación-de-BBDD-Relacionales
+# Diseño e Implementación de BBDD-Relacionales
 
 ## Decks de estudio con AnkiApp
 [Decks](./AnkiApp-Decks)
